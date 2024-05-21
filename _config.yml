@@ -9,8 +9,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://bakedjesus.github.io'
-baseurl:          '/gre-study-guide'
+url:              'https://bisongre.github.io'
+baseurl:          '/study-guide'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
