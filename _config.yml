@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            GRE Study Guide
+longtitle:        GRE Study Guide
+author:           Qavi Inan
+email:            qaviinan@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  My guide to acing the GRE in 3 months.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://bakedjesus.github.io'
+baseurl:          '/gre-study-guide'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
@@ -19,7 +19,8 @@ remote_theme: sighingnow/jekyll-gitbook
 toc:
   enabled: true
   h_min: 1
-  h_max: 3
+  h_max: 1
+  ordered: True
 
 # customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
 favicon_path:     /assets/gitbook/images/favicon.ico
